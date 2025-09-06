@@ -85,14 +85,14 @@ Right now I'm diving into C++ to understand low-level programming better and exp
 <div align="center">
 
 ### Discord Bot Features
-🎵 **Music Systems** • 🛡️ **Moderation Tools** • 📊 **Server Stats** • 🎮 **Mini Games**  
-💰 **Economy Systems** • 📈 **Leveling & XP** • 🎨 **Custom Commands** • 🔔 **Auto Roles**  
-📢 **Welcome Messages** • 🎯 **Reaction Roles** • 📝 **Logging Systems** • ⚙️ **Admin Tools**
+ **Music Systems** •  **Moderation Tools** •  **Server Stats** •  **Mini Games**  
+ **Economy Systems** •  **Leveling & XP** •  **Custom Commands** •  **Auto Roles**  
+ **Welcome Messages** •  **Reaction Roles** •  **Logging Systems** •  **Admin Tools**
 
 ### Python Development
-🕷️ **Web Scraping** • 🤖 **Automation** • 📊 **Data Analysis** • 🌐 **API Development**  
-🔧 **Tool Building** • 📈 **Data Visualization** • 🗃️ **Database Management** • 🔐 **Security Tools**  
-⚡ **Performance Optimization** • 🧪 **Testing & Debugging** • 📦 **Package Development** • 🔄 **Process Automation**
+ **Web Scraping** •  **Automation** •  **Data Analysis** •  **API Development**  
+ **Tool Building** •  **Data Visualization** •  **Database Management** •  **Security Tools**  
+ **Performance Optimization** •  **Testing & Debugging** •  **Package Development** •  **Process Automation**
 
 </div>
 
@@ -102,10 +102,8 @@ Right now I'm diving into C++ to understand low-level programming better and exp
 
 <div align="center">
   
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jzZDfgv55S)
+
 
 </div>
 
