@@ -1,4 +1,4 @@
-# 👋 Yo, I'm Arshad!
+#  Yo, I'm Arshad
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer+🐍;JavaScript+Coder+⚡;Discord+Bot+Creator+🤖;Learning+C%2B%2B+💻;Always+Grinding+🚀&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
@@ -16,11 +16,11 @@
 
 Sup! I'm Arshad, a passionate developer who loves building cool stuff with code. I spend most of my time creating Discord bots that make servers more fun and functional, and developing Python tools that solve real problems. Currently diving deep into C++ to expand my skillset and push my limits.
 
-- 🤖 **Discord Bot Developer** - Creating awesome bots that bring servers to life
-- 🐍 **Python Tool Builder** - Developing practical tools and automation scripts
-- 📚 **C++ Learner** - Currently grinding through C++ to level up my programming game
-- 💡 **Problem Solver** - Love tackling challenges and finding creative solutions
-- 🎮 **Tech Enthusiast** - Always exploring new technologies and frameworks
+-  **Discord Bot Developer** - Creating awesome bots that bring servers to life
+-  **Python Tool Builder** - Developing practical tools and automation scripts
+-  **C++ Learner** - Currently grinding through C++ to level up my programming game
+-  **Problem Solver** - Love tackling challenges and finding creative solutions
+-  **Tech Enthusiast** - Always exploring new technologies and frameworks
 
 ---
 
