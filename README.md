@@ -74,4 +74,78 @@ Sup! I'm Arshad, a passionate developer who loves building cool stuff with code.
 ### Tools & Platforms
 <div align="center">
   
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badg
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🎯 What I Do
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+### 🤖 Discord Bot Development
+I create custom Discord bots that make servers more interactive and fun. From moderation tools to music players, leveling systems to custom commands - if you can imagine it, I can build it. My bots are known for being reliable, feature-rich, and user-friendly.
+
+### 🐍 Python Tools & Automation
+Building practical Python tools is my passion. Whether it's web scraping, data processing, automation scripts, or API integrations - I love creating solutions that save time and make life easier. My tools are clean, efficient, and get the job done.
+
+### 🚀 Currently Learning
+Right now I'm diving into C++ to understand low-level programming better and expand my capabilities. Always pushing myself to learn new things and stay updated with the latest tech trends.
+
+---
+
+## 🌟 My Specialties
+
+<div align="center">
+
+### Discord Bot Features
+🎵 **Music Systems** • 🛡️ **Moderation Tools** • 📊 **Server Stats** • 🎮 **Mini Games**  
+💰 **Economy Systems** • 📈 **Leveling & XP** • 🎨 **Custom Commands** • 🔔 **Auto Roles**  
+📢 **Welcome Messages** • 🎯 **Reaction Roles** • 📝 **Logging Systems** • ⚙️ **Admin Tools**
+
+### Python Development
+🕷️ **Web Scraping** • 🤖 **Automation** • 📊 **Data Analysis** • 🌐 **API Development**  
+🔧 **Tool Building** • 📈 **Data Visualization** • 🗃️ **Database Management** • 🔐 **Security Tools**  
+⚡ **Performance Optimization** • 🧪 **Testing & Debugging** • 📦 **Package Development** • 🔄 **Process Automation**
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
+</div>
+
+<div align="center">
+  <b>Thanks for checking out my profile! Feel free to reach out if you wanna collab on something cool! 🚀</b>
+</div>
