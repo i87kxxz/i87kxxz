@@ -10,7 +10,7 @@
 
 ---
 
-## 🔥 About Me
+##  About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -24,7 +24,7 @@ Sup! I'm Arshad, a passionate developer who loves building cool stuff with code.
 
 ---
 
-## 💪 My Tech Stack
+##  My Stack
 
 ### Programming Languages
 <div align="center">
@@ -40,10 +40,6 @@ Sup! I'm Arshad, a passionate developer who loves building cool stuff with code.
 ### Python Ecosystem
 <div align="center">
   
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -63,24 +59,24 @@ Sup! I'm Arshad, a passionate developer who loves building cool stuff with code.
 
 ---
 
-## 🎯 What I Do
+##  What I Do
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-### 🤖 Discord Bot Development
+###  Discord Bot Development
 I create custom Discord bots that make servers more interactive and fun. From moderation tools to music players, leveling systems to custom commands - if you can imagine it, I can build it. My bots are known for being reliable, feature-rich, and user-friendly.
 
-### 🐍 Python Tools & Automation
+###  Python Tools & Automation
 Building practical Python tools is my passion. Whether it's web scraping, data processing, automation scripts, or API integrations - I love creating solutions that save time and make life easier. My tools are clean, efficient, and get the job done.
 
-### 🚀 Currently Learning
+###  Currently Learning
 Right now I'm diving into C++ to understand low-level programming better and expand my capabilities. Always pushing myself to learn new things and stay updated with the latest tech trends.
 
 ---
 
-## 🌟 My Specialties
+##  My Specialties
 
 <div align="center">
 
