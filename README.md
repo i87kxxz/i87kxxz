@@ -1,7 +1,7 @@
 #  Yo, I'm Arshad
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer+🐍;JavaScript+Coder+⚡;Discord+Bot+Creator+🤖;Learning+C%2B%2B+💻;Always+Grinding+🚀&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer+;JavaScript+Coder+;Discord+Bot+Creator+;Learning+C%2B%2B+;Always+Grinding+&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <div align="center">
