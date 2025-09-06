@@ -109,18 +109,6 @@ Right now I'm diving into C++ to understand low-level programming better and exp
 
 ---
 
-## 💭 Random Dev Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
-</div>
-
-<div align="center">
-  <b>Thanks for checking out my profile! Feel free to reach out if you wanna collab on something cool! 🚀</b>
+  <b>Thanks for checking out my profile</b>
 </div>
