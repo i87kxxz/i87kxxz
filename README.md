@@ -61,16 +61,6 @@ Sup! I'm Arshad, a passionate developer who loves building cool stuff with code.
 
 </div>
 
-### Databases
-<div align="center">
-  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-</div>
-
 ### Tools & Platforms
 <div align="center">
   
