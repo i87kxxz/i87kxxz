@@ -2,10 +2,10 @@
 
 # I'm struggling with:
 <!-- C -->
-![C](https://img.shields.io/badge/C-Language-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C-Language-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 
 <!-- C++ -->
-![C++](https://img.shields.io/badge/C++-Language-%23005F9C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![++](https://img.shields.io/badge/C++-Language-%23005F9C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <!-- C# -->
 ![C#](https://img.shields.io/badge/C%23-Language-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
