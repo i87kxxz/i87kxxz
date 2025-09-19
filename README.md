@@ -9,3 +9,7 @@
 
 <!-- C# -->
 ![C#](https://img.shields.io/badge/C%23-Language-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![Kernel Mode](https://img.shields.io/badge/Mode-Kernel%20Mode-red?style=for-the-badge&logo=windows&logoColor=white)
+
+![WinAPI](https://img.shields.io/badge/API-WinAPI-blue?style=for-the-badge&logo=windows&logoColor=white)
